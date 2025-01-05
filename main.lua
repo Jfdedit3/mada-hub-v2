@@ -1,7 +1,5 @@
 local NotificationLoad = loadstring(game:HttpGet(('https://raw.githubusercontent.com/treeofplant/Notif/main/library.lua'),true))()
 
-
-
 NotificationLoad:NewNotification({
 
     ["Mode"] = "Custom", -- Leave like this
